@@ -41,7 +41,7 @@ body {
     color: #C89568;
     font-family: Times New Roman;
     font-size: 35px;
-    min-width: 400px;
+    /* min-width: 400px; */
     max-height: 100vh;
   }
 
@@ -50,7 +50,7 @@ body {
     transition: all .5s ease-in-out;
     line-height: 1.5;
     margin: 0;
-    font-size: 6rem;
+    /* font-size: rem; */
   }
 
   .header-item.show {
